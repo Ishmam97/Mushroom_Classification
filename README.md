@@ -6,3 +6,7 @@
 - Support Vector Machine
 - N - Random forest classifier
 - Multi layered perceptron
+
+
+## ~*~*~TO DO ~*~*~
+Add data visualization and more models
